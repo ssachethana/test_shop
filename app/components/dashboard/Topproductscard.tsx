@@ -1,5 +1,5 @@
 import { BarChart2, ChevronRight } from "lucide-react";
-import { TopProduct } from "./Types";
+import { TopProduct } from "./types";
 
 interface TopProductsCardProps {
   products: TopProduct[];

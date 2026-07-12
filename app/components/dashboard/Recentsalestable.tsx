@@ -1,5 +1,5 @@
 import { ShoppingCart, Calendar, ChevronRight } from "lucide-react";
-import { Sale } from "./Types";
+import { Sale } from "./types";
 import { statusColors } from "./Mock";
 
 interface RecentSalesTableProps {

@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from "react";
-import { ShopAnalytics } from "./Types";
+import { ShopAnalytics } from "./types";
 
 interface UseShopAnalyticsResult {
   analytics: ShopAnalytics | null;

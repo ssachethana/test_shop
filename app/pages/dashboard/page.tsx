@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { Period } from "../../components/dashboard/Types";
+import { Period } from "../../components/dashboard/types";
 import { recentSales, topProducts, recentExpenses } from "../../components/dashboard/Mock";
 import { buildStats } from "../../components/dashboard/buildStats";
 import { useShopAnalytics } from "../../components/dashboard/Useshopanalytics";

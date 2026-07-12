@@ -1,5 +1,5 @@
 import { Receipt } from "lucide-react";
-import { Expense } from "./Types";
+import { Expense } from "./types";
 
 interface RecentExpensesCardProps {
   expenses: Expense[];

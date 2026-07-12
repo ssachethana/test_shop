@@ -1,5 +1,5 @@
 import { DollarSign, Receipt, ShoppingCart } from "lucide-react";
-import { ShopAnalytics, Period } from "./Types";
+import { ShopAnalytics, Period } from "./types";
 import { formatCurrency } from "./Format";
 import { TrendingUpIcon, TrendingDownIcon } from "./Trendicons";
 

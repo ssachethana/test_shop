@@ -1,5 +1,5 @@
 import { RefreshCw } from "lucide-react";
-import { Period } from "./Types";
+import { Period } from "./types";
 
 const periods: { key: Period; label: string }[] = [
   { key: "day", label: "Today" },

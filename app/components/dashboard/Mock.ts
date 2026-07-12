@@ -1,4 +1,4 @@
-import { Sale, TopProduct, Expense } from "./Types";
+import { Sale, TopProduct, Expense } from "./types";
 
 export const recentSales: Sale[] = [
   {
